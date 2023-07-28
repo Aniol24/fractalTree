@@ -1,2 +1,4 @@
 # Fractal Tree
-!A fractal tree created using recursion in JS(image.png)
+![Alt text](image.png)
+
+!A fractal tree created using recursion in JS
